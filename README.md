@@ -1,10 +1,8 @@
 # Ferry Company Ticketing System
 
-Ticket booking system for a ferry company, developed as an exam project for the **Software Engineering** course (Bachelor's Degree in Computer Engineering, University of Naples Federico II).
+Ticket booking system for a ferry company, developed independently as an exam project for the **Software Engineering** course (Bachelor's Degree in Computer Engineering, University of Naples Federico II).
 
 The project implements the booking flow for a ferry crossing (passenger or vehicle ticket), including price calculation, seat/space availability checks, and booking receipt generation.
-
-> Originally a 3-person group project; carried on and completed solo after the other two group members dropped out.
 
 > **Note**: this is a fairly old university demo (academic year 2022/2023), built for teaching purposes to demonstrate the Boundary-Control-Entity pattern and the OO analysis/design process in an exam context. It does not reflect modern development practices (no framework, basic credential handling, no production-ready validation): today, a similar project would use more modern solutions (e.g. Spring Boot, an ORM, real authentication). The application code has been kept faithful to the original exam version.
 
